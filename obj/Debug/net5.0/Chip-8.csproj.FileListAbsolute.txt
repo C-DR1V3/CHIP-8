@@ -1,0 +1,16 @@
+C:\Users\Hanzo\Desktop\Programming\C#\Chip-8\bin\Debug\net5.0\Chip-8.exe
+C:\Users\Hanzo\Desktop\Programming\C#\Chip-8\bin\Debug\net5.0\Chip-8.deps.json
+C:\Users\Hanzo\Desktop\Programming\C#\Chip-8\bin\Debug\net5.0\Chip-8.runtimeconfig.json
+C:\Users\Hanzo\Desktop\Programming\C#\Chip-8\bin\Debug\net5.0\Chip-8.runtimeconfig.dev.json
+C:\Users\Hanzo\Desktop\Programming\C#\Chip-8\bin\Debug\net5.0\Chip-8.dll
+C:\Users\Hanzo\Desktop\Programming\C#\Chip-8\bin\Debug\net5.0\ref\Chip-8.dll
+C:\Users\Hanzo\Desktop\Programming\C#\Chip-8\bin\Debug\net5.0\Chip-8.pdb
+C:\Users\Hanzo\Desktop\Programming\C#\Chip-8\obj\Debug\net5.0\Chip-8.csproj.AssemblyReference.cache
+C:\Users\Hanzo\Desktop\Programming\C#\Chip-8\obj\Debug\net5.0\Chip-8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hanzo\Desktop\Programming\C#\Chip-8\obj\Debug\net5.0\Chip-8.AssemblyInfoInputs.cache
+C:\Users\Hanzo\Desktop\Programming\C#\Chip-8\obj\Debug\net5.0\Chip-8.AssemblyInfo.cs
+C:\Users\Hanzo\Desktop\Programming\C#\Chip-8\obj\Debug\net5.0\Chip-8.csproj.CoreCompileInputs.cache
+C:\Users\Hanzo\Desktop\Programming\C#\Chip-8\obj\Debug\net5.0\Chip-8.dll
+C:\Users\Hanzo\Desktop\Programming\C#\Chip-8\obj\Debug\net5.0\ref\Chip-8.dll
+C:\Users\Hanzo\Desktop\Programming\C#\Chip-8\obj\Debug\net5.0\Chip-8.pdb
+C:\Users\Hanzo\Desktop\Programming\C#\Chip-8\obj\Debug\net5.0\Chip-8.genruntimeconfig.cache

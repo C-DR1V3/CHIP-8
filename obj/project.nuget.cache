@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0BB3B8sZRXiF9EUVAtwtVtMUkhtyjMjLMSQLKUwhWwE4RedveInV5rbc3MJm2dFzIjzXEj2yS224qRu9jAVxJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hanzo\\Desktop\\Programming\\C#\\Chip-8\\Chip-8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hanzo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
