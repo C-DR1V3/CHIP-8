@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0BB3B8sZRXiF9EUVAtwtVtMUkhtyjMjLMSQLKUwhWwE4RedveInV5rbc3MJm2dFzIjzXEj2yS224qRu9jAVxJQ==",
+  "dgSpecHash": "NhtaJM0sfd1gsSsObdbHjOWYZdIstYqCfLDh3VHps0EIJ10bj6Sm9zopp7hkF+qyrd2OU2cXH7L0+YMQBAM8oA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hanzo\\Desktop\\Programming\\C#\\Chip-8\\Chip-8.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Hanzo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
-  ],
+  "projectFilePath": "/Users/hanzo/Desktop/Programming/C#/CHIP_8/CHIP_8.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
